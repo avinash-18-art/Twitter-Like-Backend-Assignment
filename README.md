@@ -12,7 +12,7 @@ This is a simplified Twitter-like backend system designed using Node.js and Mong
 ### Steps
 1. Clone the repository
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/avinash-18-art/Twitter-Like-Backend-Assignment.git
     cd twitter-backend
     ```
 2. Install dependencies
