@@ -71,7 +71,7 @@ This is a simplified Twitter-like backend system designed using Node.js and Mong
 - nodemon (dev dependency)
 
 ## Contact Information
-For any queries, please contact [your email].
+For any queries, please contact chauhanavinash36869@gmail.com
 
 ## Project Structure :- 
 twitter-backend/
